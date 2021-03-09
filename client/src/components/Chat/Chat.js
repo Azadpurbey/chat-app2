@@ -9,7 +9,7 @@ import Input from '../Input/Input'
 
 import './Chat.css'
 
-const ENDPOINT = 'localhost:5000'
+const ENDPOINT = 'https://git.heroku.com/azad-chat-app.git'
 let socket
 
 const Chat = ({ location }) => {
